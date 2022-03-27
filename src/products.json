@@ -1,0 +1,27 @@
+[
+{
+    "id":1,
+    "title":"Sakız",
+    "price":0.5,
+    "image": "https://productimages.hepsiburada.net/s/25/375/10127231811634.jpg"
+},
+
+{
+    "id":2,
+    "title":"Kola",
+    "price":6,
+    "image":"https://ayb.akinoncdn.com/products/2019/01/18/3544/5aa1ee14-1c83-4213-a62b-773c4785e187_size780x780_quality60_cropCenter.jpg"
+},
+{
+    "id":3,
+    "title":"Ayakkabı",
+    "price":400,
+    "image":"https://st-vans.mncdn.com/mnresize/420/420/Content/media/ProductImg/original/637705003875973486.jpg"
+},
+{
+    "id":4,
+    "title":"Araba",
+    "price":40000,
+    "image":"https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asonic/thumb/v2-63862_small.jpg"
+}
+]
